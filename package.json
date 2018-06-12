@@ -1,0 +1,23 @@
+{
+  "name": "request-echo",
+  "version": "1.0.0",
+  "description": "request echo service for teaching REST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elirankon/request-echo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elirankon/request-echo/issues"
+  },
+  "homepage": "https://github.com/elirankon/request-echo#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
